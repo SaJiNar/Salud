@@ -1,0 +1,324 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\81be8948035a33d55aaff2b6ee4beacc\transformed\material-ripple-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5150331dde2b48ff1315b1a9594269e4\transformed\material-icons-core-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-extended:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\3dea92051a8fe8efa06e8e86646a39e4\transformed\material-icons-extended-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\4aa5e71923b6f779bcd0acc3219101b1\transformed\animation-core-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\4142aeb556ba0033f9f83855544e3534\transformed\animation-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\6090e50b37fff8a7f3c790eacb106f3b\transformed\foundation-layout-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\3514acbe4e50dd404c81956aabbc25ef\transformed\foundation-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ebe9bde147505a263a3c8489206b51a3\transformed\ui-tooling-data-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ee2c357a61ea506a02e69dffdfc40537\transformed\ui-unit-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\40036b8ac232ae65d78ed0179d2dc095\transformed\ui-graphics-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1e96b7605fd2ab7b12a6823f4db3b55e\transformed\ui-geometry-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\6ceed2d811d977c921d95c5c6639c46b\transformed\ui-tooling-preview-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\abff3c71d8287d84a1630c88b0722cd9\transformed\ui-util-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\d2d8336684324fab24012d89dffd7dbe\transformed\ui-text-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f54e483c14dfd08d25a0b0c54f4271df\transformed\ui-tooling-1.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\915c0b7971beca4e959eebb34a913802\transformed\material-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\31af85c78141f745a6a2ebd962f3d45a\transformed\activity-1.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ebf7ed2347a49fd8693ff86403635676\transformed\activity-ktx-1.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\47b54cf41d410030427103ed3acd122d\transformed\activity-compose-1.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\c318a42100a9bac71419cae484747293\transformed\runtime-saveable-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5aadaefbce325a76217ea2d01e96b76a\transformed\runtime-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-rxjava2:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\227977eb9b30053c434172bee2dd489b\transformed\runtime-rxjava2-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-livedata:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5baa55d195e5004cb6954f4bbd78a91f\transformed\runtime-livedata-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\c1a4c1e8d1619c29bbb53d217259c946\transformed\ui-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\99195bc5a7402841d9ba64868fe9368d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\2c2d81de14d3f6abd9ff30b3d35779e4\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\dabffe48b0e998be00a0b7b154182514\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\981ea45172b32a7fdfca19d5a8058f10\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\6dae0ed3de3d9f55eb746d7672448063\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\ef7f809b587a02db3e93b2d522ce2e6b\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\fe6b1be6d2d9ff4f609a826e35a09615\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f5961797d5d002f42d565fbcf16729d2\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\392493070ec70e19a942b5b50659a3b0\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\0ad390e592f66d40ecab5062e44e01ea\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\db8a093a2008b3412057148b72126ba5\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\0217a0d8bfe890268c8be66a2d0a7641\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a9063a9af3232e57647a792643c7ca3\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\60aef2cb00c30e9cb899eb9a1a6fa759\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\a147c954b7c5f138add8df3c68b29d97\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\d0c4823b265309f28d1e1f1fc8aa7a9c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\05fb4f56f386ab35064aac5e4092e813\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:6:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f54e483c14dfd08d25a0b0c54f4271df\transformed\ui-tooling-1.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f54e483c14dfd08d25a0b0c54f4271df\transformed\ui-tooling-1.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\60aef2cb00c30e9cb899eb9a1a6fa759\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\60aef2cb00c30e9cb899eb9a1a6fa759\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\a147c954b7c5f138add8df3c68b29d97\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\a147c954b7c5f138add8df3c68b29d97\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:9:9-54
+	tools:targetApi
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:13:9-43
+	android:dataExtractionRules
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:8:9-65
+activity#com.example.salud2.salud.MainActivity
+ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:17:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\81be8948035a33d55aaff2b6ee4beacc\transformed\material-ripple-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\81be8948035a33d55aaff2b6ee4beacc\transformed\material-ripple-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5150331dde2b48ff1315b1a9594269e4\transformed\material-icons-core-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5150331dde2b48ff1315b1a9594269e4\transformed\material-icons-core-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-extended:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\3dea92051a8fe8efa06e8e86646a39e4\transformed\material-icons-extended-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-extended:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\3dea92051a8fe8efa06e8e86646a39e4\transformed\material-icons-extended-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\4aa5e71923b6f779bcd0acc3219101b1\transformed\animation-core-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\4aa5e71923b6f779bcd0acc3219101b1\transformed\animation-core-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\4142aeb556ba0033f9f83855544e3534\transformed\animation-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\4142aeb556ba0033f9f83855544e3534\transformed\animation-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\6090e50b37fff8a7f3c790eacb106f3b\transformed\foundation-layout-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\6090e50b37fff8a7f3c790eacb106f3b\transformed\foundation-layout-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\3514acbe4e50dd404c81956aabbc25ef\transformed\foundation-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\3514acbe4e50dd404c81956aabbc25ef\transformed\foundation-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ebe9bde147505a263a3c8489206b51a3\transformed\ui-tooling-data-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ebe9bde147505a263a3c8489206b51a3\transformed\ui-tooling-data-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ee2c357a61ea506a02e69dffdfc40537\transformed\ui-unit-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ee2c357a61ea506a02e69dffdfc40537\transformed\ui-unit-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\40036b8ac232ae65d78ed0179d2dc095\transformed\ui-graphics-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\40036b8ac232ae65d78ed0179d2dc095\transformed\ui-graphics-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1e96b7605fd2ab7b12a6823f4db3b55e\transformed\ui-geometry-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1e96b7605fd2ab7b12a6823f4db3b55e\transformed\ui-geometry-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\6ceed2d811d977c921d95c5c6639c46b\transformed\ui-tooling-preview-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\6ceed2d811d977c921d95c5c6639c46b\transformed\ui-tooling-preview-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\abff3c71d8287d84a1630c88b0722cd9\transformed\ui-util-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\abff3c71d8287d84a1630c88b0722cd9\transformed\ui-util-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\d2d8336684324fab24012d89dffd7dbe\transformed\ui-text-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\d2d8336684324fab24012d89dffd7dbe\transformed\ui-text-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f54e483c14dfd08d25a0b0c54f4271df\transformed\ui-tooling-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f54e483c14dfd08d25a0b0c54f4271df\transformed\ui-tooling-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\915c0b7971beca4e959eebb34a913802\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\915c0b7971beca4e959eebb34a913802\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\31af85c78141f745a6a2ebd962f3d45a\transformed\activity-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\31af85c78141f745a6a2ebd962f3d45a\transformed\activity-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ebf7ed2347a49fd8693ff86403635676\transformed\activity-ktx-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\ebf7ed2347a49fd8693ff86403635676\transformed\activity-ktx-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\47b54cf41d410030427103ed3acd122d\transformed\activity-compose-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\47b54cf41d410030427103ed3acd122d\transformed\activity-compose-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\c318a42100a9bac71419cae484747293\transformed\runtime-saveable-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\c318a42100a9bac71419cae484747293\transformed\runtime-saveable-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5aadaefbce325a76217ea2d01e96b76a\transformed\runtime-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5aadaefbce325a76217ea2d01e96b76a\transformed\runtime-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-rxjava2:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\227977eb9b30053c434172bee2dd489b\transformed\runtime-rxjava2-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-rxjava2:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\227977eb9b30053c434172bee2dd489b\transformed\runtime-rxjava2-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-livedata:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5baa55d195e5004cb6954f4bbd78a91f\transformed\runtime-livedata-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-livedata:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\5baa55d195e5004cb6954f4bbd78a91f\transformed\runtime-livedata-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\c1a4c1e8d1619c29bbb53d217259c946\transformed\ui-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\c1a4c1e8d1619c29bbb53d217259c946\transformed\ui-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\99195bc5a7402841d9ba64868fe9368d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\99195bc5a7402841d9ba64868fe9368d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\2c2d81de14d3f6abd9ff30b3d35779e4\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\2c2d81de14d3f6abd9ff30b3d35779e4\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\dabffe48b0e998be00a0b7b154182514\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\dabffe48b0e998be00a0b7b154182514\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\981ea45172b32a7fdfca19d5a8058f10\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\981ea45172b32a7fdfca19d5a8058f10\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\6dae0ed3de3d9f55eb746d7672448063\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\6dae0ed3de3d9f55eb746d7672448063\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\ef7f809b587a02db3e93b2d522ce2e6b\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\ef7f809b587a02db3e93b2d522ce2e6b\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\fe6b1be6d2d9ff4f609a826e35a09615\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\fe6b1be6d2d9ff4f609a826e35a09615\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f5961797d5d002f42d565fbcf16729d2\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f5961797d5d002f42d565fbcf16729d2\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\392493070ec70e19a942b5b50659a3b0\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\392493070ec70e19a942b5b50659a3b0\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\0ad390e592f66d40ecab5062e44e01ea\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\0ad390e592f66d40ecab5062e44e01ea\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\db8a093a2008b3412057148b72126ba5\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\db8a093a2008b3412057148b72126ba5\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\0217a0d8bfe890268c8be66a2d0a7641\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\0217a0d8bfe890268c8be66a2d0a7641\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a9063a9af3232e57647a792643c7ca3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a9063a9af3232e57647a792643c7ca3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\60aef2cb00c30e9cb899eb9a1a6fa759\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\60aef2cb00c30e9cb899eb9a1a6fa759\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\a147c954b7c5f138add8df3c68b29d97\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\a147c954b7c5f138add8df3c68b29d97\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\d0c4823b265309f28d1e1f1fc8aa7a9c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\d0c4823b265309f28d1e1f1fc8aa7a9c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\05fb4f56f386ab35064aac5e4092e813\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\05fb4f56f386ab35064aac5e4092e813\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SantaMarta\AndroidStudioProjects\Salud2\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f54e483c14dfd08d25a0b0c54f4271df\transformed\ui-tooling-1.4.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f54e483c14dfd08d25a0b0c54f4271df\transformed\ui-tooling-1.4.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\f54e483c14dfd08d25a0b0c54f4271df\transformed\ui-tooling-1.4.0\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\a147c954b7c5f138add8df3c68b29d97\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\a147c954b7c5f138add8df3c68b29d97\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\1a0ee1ea348e8b185b0bcf1ddb6c622e\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\SantaMarta\.gradle\caches\transforms-3\8f1839961c502019b76989f5df9872a5\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.Salud2.salud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.Salud2.salud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\b1c90ae617bb44051160b23383b2fa40\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SantaMarta\.gradle\caches\transforms-3\2be89439e77f2329f2b1144a66a895c6\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

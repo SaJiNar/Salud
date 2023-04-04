@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.Salud2.salud.app-mergeDebugResources-45:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SantaMarta\\AndroidStudioProjects\\Salud2\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "709",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "867"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "211"
+                    }
+                }
+            ]
+        }
+    ]
+}
