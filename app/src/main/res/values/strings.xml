@@ -24,26 +24,10 @@
     <string name="receta_1">Pizza con masa \nde Brócoli</string>
     <string name="tiempocomida_1">%d minutos</string>
     <string name="receta_gazpacho_cerezas">Receta de Gazpacho \ncon Cerezas</string>
-    <string name="ingredientes_y_pasos_1">
-        <n>Ingredientes:</n>
-        <n>1 ramillete de brócoli</n>
-        <n> 1 huevo</n>
-        <n>150 g queso rallado (cheddar, mozarella..)</n>
-        <n>Especias e ingredientes para la pizza al gusto</n>
-        <br></br>
-        <n>Pasos:</n>
-        <n>1. Lo primero que haremos será rallar la parte más verde y frondosa del brócoli con un rallador o procesador.</n>
-        <n>2. Cuando tengas listo el brócoli, añade un huevo batido y el queso rallado. Puedes ponerle un poco de sal y especias al gusto (ajo, cebolla, pimentón…)</n>
-        <n>3. Mezcla todo hasta que el huevo se impregne con el resto de ingredientes.</n>
-        <n>4. Prepara tu bandeja de horno con un papel vegetal y vuelca sobre ella tu masa haciendo una montañita.</n>
-        <n>5. Y ahora, con las manos aplastala a la vez que la vas estirando haciendo forma de pizza redonda de 1/2 cm de grosor aprox.</n>
-        <n>6. Cuando la tengas bien estirada y prensada, ponle por encima la salsa de tomate y todos tus ingredientes repartidos por la pizza.</n>
-        <n>7. Hornéala a 180º durante unos 15 minutos. Cada horno es diferente, por lo que el tiempo puede variar unos minutos más o menos. Los bordes deben quedar ligeramente dorados.</n>
-        <n>8. Pasado el tiempo ya tienes tu pizza lista para disfrutarla</n>
-    </string>
-    <string name="pasos_1">
+    <string name="ingredientes_y_pasos_1">"No hay nada aqui"</string>
 
-    </string>
+    //Consejos
+    <string name="consejo_1">Consejo para \ndormir mejor</string>
 
     <string name="tiempo">%d minutos</string>
 

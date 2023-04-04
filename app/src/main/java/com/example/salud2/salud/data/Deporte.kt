@@ -5,14 +5,14 @@ import androidx.annotation.StringRes
 import com.example.Salud2.salud.R
 
 
-data class deporte(
+data class Deporte(
     @DrawableRes val imageResourceId: Int,
     @StringRes val nombre: Int,
     val tiempo: Int,
-    @StringRes val ejercicios: Int
+    val ejercicios: String
 )
 
 val deportes = listOf(
-    deporte(R.drawable.ejemplo, R.string.rutina_1, R.string.tiempo_1, R.string.ejercicio_1),
+    Deporte(R.drawable.ejemplo, R.string.rutina_1, 30 ,"Ejemplo de ejercicio"),
 
 )

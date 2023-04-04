@@ -8,7 +8,7 @@ import com.example.Salud2.salud.R
 data class Receta(
     @DrawableRes val imageResourceId: Int,
     @StringRes val nombre: Int,
-    val tiempocomida: Int,
+    val tiempo: Int,
     val ingredientes_y_pasos: String,
 )
 

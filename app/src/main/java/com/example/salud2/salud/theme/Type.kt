@@ -9,7 +9,7 @@ import androidx.compose.ui.unit.sp
 import com.example.Salud2.salud.R
 
 
-val Typography: androidx.compose.material.Typography
+val Typography: Typography
     get() = Typography(
         h1 = TextStyle(
             fontFamily = AbrilFatface,

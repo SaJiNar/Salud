@@ -21,10 +21,11 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.Salud2.salud.R
-import com.example.salud2.salud.data.Receta
+import com.example.salud2.salud.data.Deporte
+
 
 @Composable
-fun RecetaItem(receta: Receta, modifier: Modifier = Modifier) {
+fun DeporteItem(deporte: Deporte, modifier: Modifier = Modifier) {
     var expanded by remember { mutableStateOf(false) }
     Box(modifier = modifier.padding(10.dp)) {
         Card(elevation = 6.dp) {
@@ -42,17 +43,17 @@ fun RecetaItem(receta: Receta, modifier: Modifier = Modifier) {
                         .fillMaxWidth()
                         .padding(12.dp)
                 ) {
-                    RecetaIcon(receta.imageResourceId)
+                    DeporteIcon(deporte.imageResourceId)
                     Spacer(modifier = Modifier.width(10.dp))
-                    RecetaInformacion(receta.nombre, receta.tiempo)
+                    DeporteInformacion(deporte.nombre, deporte.tiempo)
                     Spacer(modifier = Modifier.weight(1f))
-                    RecetaItemButton(
+                    DeporteItemButton(
                         expanded = expanded,
                         onClick = { expanded = !expanded },
                     )
                 }
                 if (expanded) {
-                    Text(text = receta.ingredientes_y_pasos,
+                    Text(text = deporte.ejercicios,
                         modifier = Modifier.padding(vertical = 8.dp), // Ajusta el padding vertical
                         fontSize = 18.sp // Ajusta el tamaño del texto
                     )
@@ -63,7 +64,7 @@ fun RecetaItem(receta: Receta, modifier: Modifier = Modifier) {
 }
 
 @Composable
-private fun RecetaItemButton(
+private fun DeporteItemButton(
     expanded: Boolean,
     onClick: () -> Unit,
     modifier: Modifier = Modifier
@@ -85,14 +86,14 @@ private fun RecetaItemButton(
 }
 
 @Composable
-fun RecetaIcon(@DrawableRes recetaIcon: Int, modifier: androidx.compose.ui.Modifier = androidx.compose.ui.Modifier) {
+fun DeporteIcon(@DrawableRes deporteIcon: Int, modifier: androidx.compose.ui.Modifier = androidx.compose.ui.Modifier) {
     Image(
         modifier = modifier
             .size(64.dp)
             .padding(4.dp)
             .clip(RoundedCornerShape(25)),
         contentScale = ContentScale.Crop,
-        painter = painterResource(recetaIcon),
+        painter = painterResource(deporteIcon),
         /*
          * Content Description is not needed here - image is decorative, and setting a null content
          * description allows accessibility services to skip this element during navigation.
@@ -102,10 +103,10 @@ fun RecetaIcon(@DrawableRes recetaIcon: Int, modifier: androidx.compose.ui.Modif
 }
 
 @Composable
-fun RecetaInformacion(@StringRes recetaNombre: Int, minutos: Int, modifier: Modifier = Modifier) {
+fun DeporteInformacion(@StringRes deporteNombre: Int, minutos: Int, modifier: Modifier = Modifier) {
     Column {
         Text(
-            text = stringResource(recetaNombre),
+            text = stringResource(deporteNombre),
             style = MaterialTheme.typography.h2,
             modifier = modifier.padding(top = 8.dp)
         )
