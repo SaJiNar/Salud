@@ -1,0 +1,10 @@
+Para añadir descripciones a las cosas, añadirlos a string (res-values-strings)
+
+Basandome un poco en la app woof que hicimos en clase para sacar las listas y así crear las pantallas.
+    Obviamente se puede usar otras de ejemplo para crear la nuestra.
+
+data = donde guardamos los datos de actividades y recetas para "buena salud"
+
+theme = donde guardamos los datos de la letra, colores de la app...
+
+MainActivity = se trabaja la app
